@@ -14,4 +14,5 @@ Codesourcey 2009Q3 works well to complie the kernel.
 
 
 make stuttgart_android_defconfig
+
 make -j4.
